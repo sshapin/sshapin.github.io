@@ -26,7 +26,7 @@ latest_posts:
 
 Hello! My name is Sarah, and I'm an undergraduate Mathematics student at the University of Michigan. I love exploring all sorts of math, but my current primary interests lie within Topology and Number Theory. 
 
-When I'm not at a chalkboard, you can find me playing clarinet, painting, going to local record stores, or reading a good novel. 
+When I'm not at a chalkboard, you can find me playing clarinet, painting, going to local record stores, or reading a novel. 
 
 The best way to contact me is sshapin [at] umich [dot] edu.
 
