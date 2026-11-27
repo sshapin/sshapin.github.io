@@ -21,6 +21,3 @@ I am learning that I must take this in stride. My grade, an numbers-based view o
 - I learned how to be more confident in myself and my abilities in front of others, and when having to face myself alone.
 
 These things, I am learning, are tools and skills that I can utilize for the next time I stumble. My safe, but not necessarily painless, landing. I took a fall in that my performance this semester, numbers-wise, wasn't what I wanted it to be. But in doing so, I learned how to get back up and catch myself during future low points. 
-
-
-<!-- {% include figure.liquid loading="eager" path="assets/img/success.jpg" class="img-fluid rounded z-depth-1" width="300" height="300" %}  -->
