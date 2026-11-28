@@ -6,7 +6,7 @@ nav: true
 collection: books
 ---
 
-> Good friends, good books, and a sleepy conscience: this is the ideal life.
+> "Good friends, good books, and a sleepy conscience: this is the ideal life."
 >
 > -- Mark Twain
 
